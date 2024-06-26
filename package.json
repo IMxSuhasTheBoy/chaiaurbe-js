@@ -1,0 +1,19 @@
+{
+  "name": "chaiaurbe-js",
+  "version": "1.0.0",
+  "description": "video streaming platform by IMxSuhasTheBoy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "IMxSuhasTheBoy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
